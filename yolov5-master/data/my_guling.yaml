@@ -1,0 +1,14 @@
+path: D:\PycharmProjects\study\34\guling\dataset
+train: train
+val: val
+test: test
+
+# Classes
+names:
+  0: DistalPhalanx
+  1: MCP
+  2: MCPFirst
+  3: MiddlePhalanx
+  4: ProximalPhalanx
+  5: Radius
+  6: Ulna
